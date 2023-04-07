@@ -7,3 +7,8 @@ Due to its ability to provide real time imaging, ANPR is beneficial to many numb
 
 
 Data set: <b>https://www.kaggle.com/datasets/elysian01/car-number-plate-detection<b>
+
+ 
+<b> Note: <b>
+  
+  *** Compress dataset and add to Colab folder before running the code. *** 
